@@ -1,0 +1,29 @@
+body{
+    font-family:'Poppins', sans-serif;
+    background-color:antiquewhite;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.container{
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 500px;
+    padding: 10px 24px;
+}
+
+select{
+    width: 20%;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 5px;
+    background-color: lightyellow;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    width: 30%;
+    background-color: azure;
+}
+
